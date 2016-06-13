@@ -1,0 +1,5 @@
+include tests.py
+graft requires
+
+global-exclude __pycache__
+global-exclude *.pyc
